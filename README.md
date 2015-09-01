@@ -1,1 +1,1 @@
-# fizzbuzz
+I made sure to use an each loop for this, upon Brook's recommendation this morning. I whiteboard with Mary, so the basic structure follows what we hashed out.
